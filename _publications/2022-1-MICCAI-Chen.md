@@ -8,7 +8,7 @@ venue:  Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 paperurl:  
 citation: 
 ---
-![](../images_paper/2022-MICCAI-Chen.png)  
+![](../images_paper/2022-1-MICCAI-Chen.png)  
 **Xiongchao Chen**, Bo Zhou, Huidong Xie, Xueqi Guo, Jiazhen Zhang, Albert J Sinusas, John A Onofrey, Chi Liu  
  Medical Image Computing and Computer-Assisted Intervention **(MICCAI)**, 2022.  
 [[Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_5)]
