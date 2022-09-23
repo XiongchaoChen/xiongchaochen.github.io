@@ -1,7 +1,7 @@
 ---
 title: "Dual-Branch Squeeze-Fusion-Excitation Module for Cross-Modality Registration of Cardiac SPECT and CT"
 collection: publications
-permalink: '/publication/2022-5-MICCAI-Chen'
+permalink: 
 excerpt: 
 date: 2022-09-17
 venue:  Medical Image Computing and Computer-Assisted Intervention (MICCAI)
