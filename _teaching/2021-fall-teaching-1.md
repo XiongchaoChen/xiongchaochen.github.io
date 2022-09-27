@@ -1,5 +1,5 @@
 ---
-title: "Yale University ENAS 510: Physical and Chemical Basis of Bioimaging and Biosensing"
+title: "Yale University ENAS 510"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-fall-teaching-1
