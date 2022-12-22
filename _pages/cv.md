@@ -9,9 +9,9 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-My resume can be downloaded [here](../files/Resume_ChenX_20221118.pdf) if the embedded PDF below does not load correctly.
+My resume can be downloaded [here](../files/Resume_ChenX_2022122.pdf) if the embedded PDF below does not load correctly.
 
-<center><embed src="../files/Resume_ChenX_20221118.pdf" width="850" height="1200"></center>
+<center><embed src="../files/Resume_ChenX_2022122.pdf" width="850" height="1200"></center>
 
 
 <!-- Education
