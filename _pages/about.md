@@ -12,4 +12,4 @@ I am a 4<sup>th</sup> year Ph.D candidate at the School of Engineering and Appli
 
 My research topics include but are not limited to deep learning-enabled medical imaging and imaging analysis techniques for reconstruction, registration, attenuation correction, and denoising of PET/SPECT, CT, and MRI.
 
-I am expexted to graduate in **2023/05** and currently seeking **full-time** job opportunities across various industries. Please don't hesitate to contact me at xiongchao.chen [at] yale.edu if you have any openings. 
+I am expexted to graduate in **2024/05** and currently seeking **full-time** job opportunities across various industries. Please don't hesitate to contact me at xiongchao.chen [at] yale.edu if you have any openings. 
