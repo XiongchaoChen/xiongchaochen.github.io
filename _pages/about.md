@@ -16,4 +16,4 @@ I am a 4<sup>th</sup> year Ph.D candidate in the Department of Biomedical Engine
 
 My research topics are deep learning-enabled medical imaging and imaging analysis techniques for reconstruction, registration, correction of PET/SPECT, CT, and MRI. My resume is [here](https://xiongchaochen.github.io/cv/).
 
-I am expexted to graduate in **May 2024** and currently seeking full-time job opportunities. Please don't hesitate to contact me at **xiongchao.chen [at] yale.edu** if you have any openings. 
+I am expexted to graduate in **May 2024** and currently seeking full-time job opportunities. Please contact me at **xiongchao.chen [at] yale.edu** if you have any openings. 
