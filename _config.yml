@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Xiongchao Chen"
 description              : &description "Xiongchao Chen's Homepage"
