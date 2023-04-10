@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Xiongchao Chen](https://xiongchaochen.github.io/cv/) (陈 雄超)"
+title: "Xiongchao Chen (陈 雄超)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
