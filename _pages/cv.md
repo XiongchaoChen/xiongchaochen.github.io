@@ -9,9 +9,9 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-My resume (Updated on 08/25/2023) can be downloaded [here](../files/Resume_ChenX_EN_20230825.pdf) if the embedded PDF below (> 5 pages) does not load correctly.
+My resume (Updated on 10/20/2023) can be downloaded [here](../files/Resume_ChenX_EN_20231020.pdf) if the embedded PDF below (> 5 pages) does not load correctly.
 
-<center><embed src="../files/Resume_ChenX_EN_20230825.pdf" width="850" height="1200"></center>
+<center><embed src="../files/Resume_ChenX_EN_20231020.pdf" width="850" height="1200"></center>
 
 
 <!-- Education
