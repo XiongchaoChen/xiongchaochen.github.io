@@ -1,0 +1,15 @@
+---
+title: "Cross-Domain Iterative Network for Simultaneous Denoising, Limited-angle Reconstruction, and Attenuation Correction of Cardiac SPECT"
+collection: publications
+permalink: /publications/2023-05
+excerpt: 
+date: 2023-05-31
+venue:  Medical Image Computing and Computer-Assisted Intervention (MICCAI) Workshop, 2023
+paperurl:  
+citation: 
+---
+<p align="center">
+  <img width="920" src="../figures/2023-2-MICCAI.png">
+</p>
+**Xiongchao Chen**, Bo Zhou, Huidong Xie, et al. *Medical Image Computing and Computer-Assisted Intervention (MICCAI) Workshop*, 2023.  
+[[Paper Link](https://arxiv.org/abs/2305.10326)] [[Code Link](https://github.com/XiongchaoChen/CDI-Net)]  
