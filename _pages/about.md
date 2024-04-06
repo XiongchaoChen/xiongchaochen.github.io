@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a research scientist focuing on deep learning-enabled medical imaging and imaging analysis techniques for reconstruction, registration, and correction of PET/SPECT, CT, and MRI. My resume is [HERE](https://xiongchaochen.github.io/cv/). 
 
+I was supervised by Dr. [Chi Liu](https://medicine.yale.edu/profile/chi_liu/) at [Yale Positron Emission Tomography (PET) Center](https://medicine.yale.edu/pet/). In 2019, I received my B.S. degree in Optoelectronic Engineering at Huazhong Univ. of Sci. and Tech. (HUST), supervised by Dr. [Peng Fei](http://faculty.hust.edu.cn/feipeng/zh_CN/index.htm). I worked as an image analytics research intern at Siemens Medical Solutions (Malvern, PA) on accelerated MRI reconstruction in 2022 summer. I am working as a deep learning research intern at Siemens Healthineers (Knoxville, TN) on TOF PET reconstruction in 2023 summer.
 
-
-
-I am a 5<sup>th</sup> (final) year Ph.D. candidate in the Department of Biomedical Engineering at Yale University. My resume is [HERE](https://xiongchaochen.github.io/cv/). My research topics are deep learning-enabled medical imaging and imaging analysis techniques for reconstruction, registration, and correction of PET/SPECT, CT, and MRI. 
-
-I am supervised by Dr. [Chi Liu](https://medicine.yale.edu/profile/chi_liu/) at [Yale Positron Emission Tomography (PET) Center](https://medicine.yale.edu/pet/). In 2019, I received my B.S. degree in Optoelectronic Engineering at Huazhong Univ. of Sci. and Tech. (HUST), supervised by Dr. [Peng Fei](http://faculty.hust.edu.cn/feipeng/zh_CN/index.htm). I worked as an image analytics research intern at Siemens Medical Solutions (Malvern, PA) on accelerated MRI reconstruction in 2022 summer. I am working as a deep learning research intern at Siemens Healthineers (Knoxville, TN) on TOF PET reconstruction in 2023 summer.
-
-I am expected to graduate in **March 2024**. Please reach me at **xiongchao.chen1 [at] outlook.com**.
+Please reach me at **xiongchao.chen1 [at] outlook.com**.
