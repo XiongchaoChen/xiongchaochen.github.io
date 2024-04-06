@@ -11,7 +11,7 @@ redirect_from:
 
 My resume (Updated on April 6th 2024) can be downloaded [here](../files/Resume_ChenX_EN_20240406.pdf) if the embedded PDF below (> 5 pages) does not load correctly.
 
-<center><embed src="../files/Resume_ChenX_EN_20231020.pdf" width="850" height="1200"></center>
+<center><embed src="../files/Resume_ChenX_EN_20240406.pdf" width="850" height="1200"></center>
 
 
 <!-- Education
