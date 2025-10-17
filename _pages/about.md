@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a AI/CV Staff Engineer at Huawei Noah's Ark Lab. We have openings for AI/CV intern and full-time positions at Beijing/Shanghai/Shenzhen/Hongkong. If you are interested, please reach me at cxc936997516 (WeChat) or xiongchao.chen1 AT outlook DOT com (E-Mail).
+I am currently a AI/CV Staff Engineer at Huawei Noah's Ark Lab. We have openings for AI/CV intern and full-time positions at Beijing/Shanghai/Shenzhen/Hongkong. If you are interested, please reach me at **cxc936997516 (WeChat)** or **xiongchao.chen1 AT outlook DOT com** (E-Mail).
 
-I earned my Ph.D. in Engineering & Applied Science from Yale University in 2024, supervised by Dr. [Chi Liu](https://medicine.yale.edu/profile/chi_liu/). I earned my B.S. degree in Optoelectronic Engineering from Huazhong University of Sci. and Tech. (HUST) in spring 2019, supervised by Dr. [Peng Fei](http://faculty.hust.edu.cn/feipeng/zh_CN/index.htm). I once served as an image analytics intern at [Siemens Medical Solutions](https://www.siemens-healthineers.com/) (Malvern, PA) and an AI Software Engineer Intern at [Siemens Healthineers](https://www.siemens-healthineers.com/) (Knoxville, TN). From 2021 to 2024, I held a part-time position as a remote AI technical specilist at [GE HealthCare](https://www.gehealthcare.com/), focusing on AI model development and deployment.
-
-Please refer to my [resume](https://xiongchaochen.github.io/cv/) for further details. 
+I earned my Ph.D. in Engineering & Applied Science from Yale University in 2024, supervised by Dr. [Chi Liu](https://medicine.yale.edu/profile/chi_liu/). I earned my B.S. degree in Optoelectronic Engineering from Huazhong University of Sci. and Tech. (HUST) in spring 2019, supervised by Dr. [Peng Fei](http://faculty.hust.edu.cn/feipeng/zh_CN/index.htm). I once served as an image analytics intern at [Siemens Medical Solutions](https://www.siemens-healthineers.com/) (Malvern, PA) and an AI Software Engineer Intern at [Siemens Healthineers](https://www.siemens-healthineers.com/) (Knoxville, TN). From 2021 to 2024, I held a part-time position as a remote AI technical specilist at [GE HealthCare](https://www.gehealthcare.com/), focusing on AI model development and deployment. Refer to my [resume](https://xiongchaochen.github.io/cv/) for further details. 
 
 
 
