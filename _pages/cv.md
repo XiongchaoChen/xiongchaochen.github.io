@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-My resume (Updated on Oct. 19th 2025) can be downloaded [here](../files/Resume_ChenX_EN_20251019.pdf) if the embedded PDF below (> 5 pages) does not load correctly.
+My resume (Updated on 2026/0401) can be downloaded [here](../files/Resume_ChenX_EN_20260401.pdf) if the embedded PDF below (> 5 pages) does not load correctly.
 
 <center><embed src="../files/Resume_ChenX_EN_20251019.pdf" width="850" height="1200"></center>
 
